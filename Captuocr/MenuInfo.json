@@ -3,13 +3,13 @@
              {
              "is_separator": false,
              "title": "截图识字",
-             "key": "c",
+             "key": "o",
              "selector": "capturePic4Txt"
              },
              {
              "is_separator": false,
              "title": "选择文件",
-             "key": "s",
+             "key": "f",
              "selector": "selectPic4Txt"
              },
              {
